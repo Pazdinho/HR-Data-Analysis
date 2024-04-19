@@ -1,4 +1,4 @@
-# HR_Data_Analysis
+# HR Data Analysis
 
 This is the *HR Data Analysis* project I made myself.
 
