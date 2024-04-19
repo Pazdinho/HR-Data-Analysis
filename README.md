@@ -9,6 +9,7 @@ Here's the link to the project: https://hyperskill.org/projects/268
 
 Check out my profile: https://hyperskill.org/profile/534807553
 
+
 Learning outcomes: Data analysis using Pandas
 
 Please upload the project's files to your local repository from designated folder
